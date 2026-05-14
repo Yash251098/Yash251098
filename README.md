@@ -128,9 +128,6 @@ Status      : Open to Opportunities ✅
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yash251098&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=0078D4&icon_color=00BCF2&text_color=C9D1D9&border_radius=10" height="185" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash251098&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&text_color=C9D1D9&border_radius=10" height="185" alt="Top Languages"/>
 
 <br/><br/>
 
