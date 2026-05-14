@@ -81,12 +81,6 @@ Infrastructure and cloud professional with **3+ years of experience** in Windows
 
 <div align="center">
 
-```
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash251098&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash251098&layout=compact&theme=github_dark&hide_border=true) 
-```
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yash251098&theme=github-dark-blue&hide_border=true)
 
 </div>
