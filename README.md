@@ -1,9 +1,24 @@
 <div align="center">
 
-<!-- Capsule Render Wave Header - GitHub allowlisted -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0078D4,100:00BCF2&height=220&section=header&text=Yash%20Panpatil&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Windows%20Administrator%20%C2%B7%20Azure%20%26%20Microsoft%20365%20%C2%B7%20Infrastructure%20Engineer&descAlignY=58&descSize=15&animation=fadeIn" alt="Header"/>
+<!-- SVG Header - fully inline, no external dependency -->
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0D1B2A;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0078D4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00BCF2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#headerGrad)" rx="0"/>
+  <text x="450" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700"
+    fill="white" text-anchor="middle" dominant-baseline="middle">Yash Panpatil</text>
+  <text x="450" y="145" font-family="Segoe UI, Arial, sans-serif" font-size="15"
+    fill="#BDE8FF" text-anchor="middle">Windows Administrator · Azure &amp; Microsoft 365 · Infrastructure Engineer</text>
+  <!-- Wave bottom -->
+  <path d="M0,170 Q225,200 450,170 Q675,140 900,170 L900,200 L0,200 Z" fill="#0D1117"/>
+</svg>
 
-<!-- Typing SVG from demolab - GitHub allowlisted -->
+<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=00BCF2&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%94%90+Active+Directory+%26+Azure+AD+Specialist;%E2%9A%99%EF%B8%8F+PowerShell+Automation+Engineer;%E2%98%81%EF%B8%8F+Hybrid+Cloud+%26+M365+Administrator;%F0%9F%9B%A1%EF%B8%8F+Intune+%7C+Endpoint+Security+%7C+Compliance;%F0%9F%9A%80+Building+Scalable+IT+Infrastructure" alt="Typing Animation"/>
 
 <br/><br/>
@@ -197,8 +212,18 @@ jobs:
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCF2,50:0078D4,100:0D1B2A&height=130&section=footer&animation=fadeIn" alt="Footer"/>
-
+<!-- SVG Footer - fully inline -->
 <div align="center">
-  <sub>⚡ Automating infrastructure, one script at a time · © Yash Panpatil</sub>
+<svg width="100%" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00BCF2;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0078D4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D1B2A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M0,0 Q225,40 450,10 Q675,-20 900,0 L900,80 L0,80 Z" fill="url(#footerGrad)"/>
+</svg>
+
+<sub>⚡ Automating infrastructure, one script at a time · © Yash Panpatil</sub>
 </div>
