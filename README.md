@@ -1,22 +1,9 @@
 <div align="center">
 
-<!-- SVG Header - fully inline, no external dependency -->
-<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0D1B2A;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#0078D4;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00BCF2;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="900" height="200" fill="url(#headerGrad)" rx="0"/>
-  <text x="450" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700"
-    fill="white" text-anchor="middle" dominant-baseline="middle">Yash Panpatil</text>
-  <text x="450" y="145" font-family="Segoe UI, Arial, sans-serif" font-size="15"
-    fill="#BDE8FF" text-anchor="middle">Windows Administrator · Azure &amp; Microsoft 365 · Infrastructure Engineer</text>
-  <!-- Wave bottom -->
-  <path d="M0,170 Q225,200 450,170 Q675,140 900,170 L900,200 L0,200 Z" fill="#0D1117"/>
-</svg>
+<!-- Header SVG embedded directly — no external file needed -->
+<img width="100%" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDkwMCAyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzBEMUIyQSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iIzAwNzhENCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMEJDRjIiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwMEJDRjIiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzAwQkNGMiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAwQkNGMiIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iZ2xvdyI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMiIHJlc3VsdD0iY29sb3JlZEJsdXIiLz4KICAgICAgPGZlTWVyZ2U+CiAgICAgICAgPGZlTWVyZ2VOb2RlIGluPSJjb2xvcmVkQmx1ciIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CgogIDwhLS0gQmFja2dyb3VuZCAtLT4KICA8cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0idXJsKCNiZykiLz4KCiAgPCEtLSBTdWJ0bGUgZ3JpZCBsaW5lcyAtLT4KICA8bGluZSB4MT0iMCIgeTE9IjQwIiB4Mj0iOTAwIiB5Mj0iNDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9IjAuMDQiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSIwIiB5MT0iODAiIHgyPSI5MDAiIHkyPSI4MCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utb3BhY2l0eT0iMC4wNCIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjAiIHkxPSIxMjAiIHgyPSI5MDAiIHkyPSIxMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9IjAuMDQiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSIwIiB5MT0iMTYwIiB4Mj0iOTAwIiB5Mj0iMTYwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS1vcGFjaXR5PSIwLjA0IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iMTgwIiB5MT0iMCIgeDI9IjE4MCIgeTI9IjIwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utb3BhY2l0eT0iMC4wNCIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjM2MCIgeTE9IjAiIHgyPSIzNjAiIHkyPSIyMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9IjAuMDQiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI1NDAiIHkxPSIwIiB4Mj0iNTQwIiB5Mj0iMjAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS1vcGFjaXR5PSIwLjA0IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNzIwIiB5MT0iMCIgeDI9IjcyMCIgeTI9IjIwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utb3BhY2l0eT0iMC4wNCIgc3Ryb2tlLXdpZHRoPSIxIi8+CgogIDwhLS0gRGVjb3JhdGl2ZSBjaXJjbGVzIC0tPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iNDAiIHI9IjYwIiBmaWxsPSIjMDBCQ0YyIiBmaWxsLW9wYWNpdHk9IjAuMDciLz4KICA8Y2lyY2xlIGN4PSI4MjAiIGN5PSIxNjAiIHI9IjcwIiBmaWxsPSIjMDA3OEQ0IiBmaWxsLW9wYWNpdHk9IjAuMTAiLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSIyMDAiIHI9IjkwIiBmaWxsPSIjMDA1QkExIiBmaWxsLW9wYWNpdHk9IjAuMDgiLz4KCiAgPCEtLSBUb3AgYWNjZW50IGxpbmUgLS0+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjkwMCIgaGVpZ2h0PSIzIiBmaWxsPSJ1cmwoI2xpbmVHcmFkKSIvPgoKICA8IS0tIE5hbWUgLS0+CiAgPHRleHQgeD0iNDUwIiB5PSI5NSIKICAgIGZvbnQtZmFtaWx5PSJTZWdvZSBVSSwgSGVsdmV0aWNhIE5ldWUsIEFyaWFsLCBzYW5zLXNlcmlmIgogICAgZm9udC1zaXplPSI0NCIKICAgIGZvbnQtd2VpZ2h0PSI3MDAiCiAgICBsZXR0ZXItc3BhY2luZz0iMiIKICAgIGZpbGw9IiNGRkZGRkYiCiAgICB0ZXh0LWFuY2hvcj0ibWlkZGxlIgogICAgZmlsdGVyPSJ1cmwoI2dsb3cpIj5ZQVNIIFBBTlBBVElMPC90ZXh0PgoKICA8IS0tIERpdmlkZXIgZG90cyAtLT4KICA8Y2lyY2xlIGN4PSIyNzAiIGN5PSIxMjAiIHI9IjIuNSIgZmlsbD0iIzAwQkNGMiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNDUwIiBjeT0iMTIwIiByPSIyLjUiIGZpbGw9IiMwMEJDRjIiIG9wYWNpdHk9IjAuOSIvPgogIDxjaXJjbGUgY3g9IjYzMCIgY3k9IjEyMCIgcj0iMi41IiBmaWxsPSIjMDBCQ0YyIiBvcGFjaXR5PSIwLjkiLz4KCiAgPCEtLSBTdWJ0aXRsZSAtLT4KICA8dGV4dCB4PSI0NTAiIHk9IjE0OCIKICAgIGZvbnQtZmFtaWx5PSJTZWdvZSBVSSwgSGVsdmV0aWNhIE5ldWUsIEFyaWFsLCBzYW5zLXNlcmlmIgogICAgZm9udC1zaXplPSIxNCIKICAgIGZvbnQtd2VpZ2h0PSI0MDAiCiAgICBsZXR0ZXItc3BhY2luZz0iMyIKICAgIGZpbGw9IiNCREU4RkYiCiAgICB0ZXh0LWFuY2hvcj0ibWlkZGxlIgogICAgb3BhY2l0eT0iMC45MCI+V0lORE9XUyBBRE1JTklTVFJBVE9SICDCtyAgQVpVUkUgJmFtcDsgTTM2NSAgwrcgIElORlJBU1RSVUNUVVJFIEVOR0lORUVSPC90ZXh0PgoKICA8IS0tIEJvdHRvbSBhY2NlbnQgbGluZSAtLT4KICA8cmVjdCB4PSIwIiB5PSIxOTciIHdpZHRoPSI5MDAiIGhlaWdodD0iMyIgZmlsbD0idXJsKCNsaW5lR3JhZCkiLz4KCiAgPCEtLSBCb3R0b20gd2F2ZSAtLT4KICA8cGF0aCBkPSJNMCwxNzUgUTE1MCwyMDAgMzAwLDE4MCBRNDUwLDE2MCA2MDAsMTg1IFE3NTAsMjEwIDkwMCwxNzggTDkwMCwyMDAgTDAsMjAwIFoiCiAgICBmaWxsPSIjMEQxMTE3IiBvcGFjaXR5PSIwLjYiLz4KPC9zdmc+Cg==" alt="Yash Panpatil Banner"/>
+
+<br/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=00BCF2&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%94%90+Active+Directory+%26+Azure+AD+Specialist;%E2%9A%99%EF%B8%8F+PowerShell+Automation+Engineer;%E2%98%81%EF%B8%8F+Hybrid+Cloud+%26+M365+Administrator;%F0%9F%9B%A1%EF%B8%8F+Intune+%7C+Endpoint+Security+%7C+Compliance;%F0%9F%9A%80+Building+Scalable+IT+Infrastructure" alt="Typing Animation"/>
@@ -164,7 +151,7 @@ Status      : Open to Opportunities ✅
 <summary>⚙️ <b>Enable the Snake animation (one-time setup)</b></summary>
 <br/>
 
-Create `.github/workflows/snake.yml` in your profile repo with:
+Create `.github/workflows/snake.yml` in your profile repo:
 
 ```yaml
 name: Generate Snake
@@ -208,22 +195,8 @@ jobs:
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-panpatil-566b37146)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash251098)
 
-</div>
-
----
-
-<!-- SVG Footer - fully inline -->
-<div align="center">
-<svg width="100%" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00BCF2;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#0078D4;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D1B2A;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <path d="M0,0 Q225,40 450,10 Q675,-20 900,0 L900,80 L0,80 Z" fill="url(#footerGrad)"/>
-</svg>
+<br/>
 
 <sub>⚡ Automating infrastructure, one script at a time · © Yash Panpatil</sub>
+
 </div>
