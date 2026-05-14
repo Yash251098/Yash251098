@@ -110,17 +110,6 @@ Status      : Open to Opportunities ✅
 
 ---
 
-## 📜 Certifications & Learning Path
-
-<div align="center">
-
-| Status | Certification | Issuer | Badge |
-|--------|--------------|--------|-------|
-| ✅ **Certified** | Microsoft Azure Fundamentals | Microsoft | ![AZ-900](https://img.shields.io/badge/AZ--900-Passed-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
-| 🔄 **In Progress** | Microsoft Azure Administrator | Microsoft | ![AZ-104](https://img.shields.io/badge/AZ--104-In_Progress-FFA500?style=flat-square&logo=microsoftazure&logoColor=white) |
-| 📖 **Learning** | Microsoft 365 Administrator | Microsoft | ![MS-102](https://img.shields.io/badge/MS--102-Learning-6264A7?style=flat-square&logo=microsoft365&logoColor=white) |
-
-</div>
 
 ---
 
