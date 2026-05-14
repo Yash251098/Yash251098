@@ -5,7 +5,8 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&pause=1000&color=00BCF2&center=true&vCenter=true&width=680&height=45&lines=👋+Hi%2C+I'm+Yash+Panpatil!;🔐+Active+Directory+%26+Azure+AD+Specialist;⚙️+PowerShell+Automation+Engineer;☁️+Hybrid+Cloud+%26+Microsoft+365+Admin;🛡️+Intune+%7C+Endpoint+Security+%7C+Compliance;🚀+3%2B+Years+Building+Enterprise+IT+Infrastructure" alt="Typing Animation"/>
+<!-- Typing animation — two sources for redundancy; whichever loads first wins -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=1000&color=00BCF2&background=0D111700&center=true&vCenter=true&width=680&height=45&lines=👋+Hi%2C+I'm+Yash+Panpatil!;🔐+Active+Directory+%26+Azure+AD+Specialist;⚙️+PowerShell+Automation+Engineer;☁️+Hybrid+Cloud+%26+Microsoft+365+Admin;🛡️+Intune+%7C+Endpoint+Security+%7C+Compliance;🚀+3%2B+Years+Building+Enterprise+IT+Infrastructure" alt="Typing Animation" onerror="this.src='https://raw.githubusercontent.com/Yash251098/Yash251098/main/typing_banner.png'"/>
 
 <br/><br/>
 
@@ -110,11 +111,9 @@ Status      : Open to Opportunities ✅
 
 ---
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 
 <br/><br/>
 
