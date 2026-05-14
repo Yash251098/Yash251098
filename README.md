@@ -1,12 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0078D4,100:00BCF2&height=220&section=header&text=Yash%20Panpatil&fontSize=55&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Windows%20Administrator%20·%20Azure%20%26%20Microsoft%20365%20·%20Infrastructure%20Engineer&descAlignY=58&descSize=15&descAlign=50&animation=fadeIn" />
+<!-- Capsule Render Wave Header - GitHub allowlisted -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0078D4,100:00BCF2&height=220&section=header&text=Yash%20Panpatil&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Windows%20Administrator%20%C2%B7%20Azure%20%26%20Microsoft%20365%20%C2%B7%20Infrastructure%20Engineer&descAlignY=58&descSize=15&animation=fadeIn" alt="Header"/>
 
-<br/>
-
-<a href="https://github.com/Yash251098">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00BCF2&center=true&vCenter=true&width=650&height=45&lines=🔐+Active+Directory+%26+Azure+AD+Specialist;⚙️+PowerShell+Automation+Engineer;☁️+Hybrid+Cloud+%26+M365+Administrator;🛡️+Intune+%7C+Endpoint+Security+%7C+Compliance;🚀+Building+Scalable+IT+Infrastructure" alt="Typing Animation" />
-</a>
+<!-- Typing SVG from demolab - GitHub allowlisted -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=00BCF2&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%94%90+Active+Directory+%26+Azure+AD+Specialist;%E2%9A%99%EF%B8%8F+PowerShell+Automation+Engineer;%E2%98%81%EF%B8%8F+Hybrid+Cloud+%26+M365+Administrator;%F0%9F%9B%A1%EF%B8%8F+Intune+%7C+Endpoint+Security+%7C+Compliance;%F0%9F%9A%80+Building+Scalable+IT+Infrastructure" alt="Typing Animation"/>
 
 <br/><br/>
 
@@ -19,9 +17,9 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" />
-
 ## 👨‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding"/>
 
 Infrastructure and cloud professional with **3+ years of hands-on experience** designing, managing, and automating enterprise IT environments. I bridge the gap between on-premises Windows infrastructure and the modern Microsoft cloud — delivering solutions that are reliable, secure, and built to scale.
 
@@ -50,7 +48,6 @@ Status      : Open to Opportunities ✅
 ![Azure AD](https://img.shields.io/badge/Azure_AD_/_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Hybrid Identity](https://img.shields.io/badge/Hybrid_Identity-005BA1?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Group Policy](https://img.shields.io/badge/Group_Policy-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![SSPR](https://img.shields.io/badge/SSPR-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### ☁️ Microsoft Cloud & Productivity
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
@@ -68,8 +65,8 @@ Status      : Open to Opportunities ✅
 
 ### 📱 Endpoint & Device Management
 ![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Endpoint Manager](https://img.shields.io/badge/Endpoint_Manager-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Autopilot](https://img.shields.io/badge/Windows_Autopilot-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Endpoint Manager](https://img.shields.io/badge/Endpoint_Manager-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### 🏗️ Virtualization & Cloud Platforms
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -93,7 +90,7 @@ Status      : Open to Opportunities ✅
 | ☁️ | **[Microsoft 365 Administration Tools](https://github.com/Yash251098)** | `PowerShell` `Graph API` | License management, mailbox migrations, distribution groups & M365 reporting |
 | 🔗 | **[Azure AD Hybrid Setup Lab](https://github.com/Yash251098)** | `Azure AD` `AD Connect` | End-to-end hybrid identity lab with AAD Connect, SSO, and PHS configuration |
 | 📊 | **[PowerShell Monitoring Scripts](https://github.com/Yash251098)** | `PowerShell` `SMTP` | Automated infrastructure monitoring with email/event alerting for Windows Server |
-| 🏥 | **[Windows Server Health Check Toolkit](https://github.com/Yash251098)** | `PowerShell` `WMI` | Comprehensive health check framework covering disk, CPU, services & event logs |
+| 🏥 | **[Windows Server Health Check Toolkit](https://github.com/Yash251098)** | `PowerShell` `WMI` | Comprehensive health checks covering disk, CPU, services & event logs |
 | 📱 | **[Intune Device Management Scripts](https://github.com/Yash251098)** | `PowerShell` `Intune` | Compliance policy deployment, device enrollment automation & lifecycle scripts |
 
 </div>
@@ -118,39 +115,67 @@ Status      : Open to Opportunities ✅
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yash251098&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=0078D4&icon_color=00BCF2&text_color=C9D1D9&border_radius=10" height="185" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash251098&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&text_color=C9D1D9&border_radius=10" height="185" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash251098&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=00BCF2&currStreakLabel=0078D4&border_radius=10" width="68%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yash251098&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=0078D4&icon_color=00BCF2&text_color=C9D1D9&border_radius=10" height="185" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash251098&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&text_color=C9D1D9&border_radius=10" height="185" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yash251098&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Yash251098&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=00BCF2&currStreakLabel=0078D4&border_radius=10" width="70%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yash251098&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="Trophies"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash251098&bg_color=0D1117&color=00BCF2&line=0078D4&point=FFFFFF&area=true&hide_border=true&border_radius=10" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash251098&bg_color=0D1117&color=00BCF2&line=0078D4&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yash251098/Yash251098/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash251098/Yash251098/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash251098/Yash251098/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Yash251098/Yash251098/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
 </div>
 
 <details>
-<summary>⚙️ <b>How to enable the Snake animation</b></summary>
+<summary>⚙️ <b>Enable the Snake animation (one-time setup)</b></summary>
 <br/>
 
-1. In your profile repository, go to **Settings → Actions → General**
-2. Enable **"Allow all actions and reusable workflows"**
-3. Create `.github/workflows/snake.yml` with the [Platane/snk action](https://github.com/Platane/snk)
-4. Run the workflow — it auto-generates the SVG on a daily schedule
+Create `.github/workflows/snake.yml` in your profile repo with:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Yash251098
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
 </details>
 
@@ -167,13 +192,12 @@ Status      : Open to Opportunities ✅
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-panpatil-566b37146)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash251098)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCF2,50:0078D4,100:0D1B2A&height=130&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCF2,50:0078D4,100:0D1B2A&height=130&section=footer&animation=fadeIn" alt="Footer"/>
 
 <div align="center">
   <sub>⚡ Automating infrastructure, one script at a time · © Yash Panpatil</sub>
